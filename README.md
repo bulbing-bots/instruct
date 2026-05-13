@@ -7,9 +7,9 @@ LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 
 ---
 
-<a href="https://github.com/auto-agents/instruct"><b><h4>&bull; instruct</h4></b></a>
+<a href="https://github.com/auto-agents/assets"><b><h4>&bull; assets</h4></b></a>
 
-This repository contains various **AI instructions** for both **agents** and the **cli tool**:
+This repository contains various **AI assets** for both **agents** and the **cli tool**:
 
 - `prompts`
 - `system instructions`
